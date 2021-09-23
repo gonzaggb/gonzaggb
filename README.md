@@ -1,10 +1,7 @@
 - 👋 Hola, soy Gonzalo Baigorria
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gonzaggb/gonzaggb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 Actualmente me encuentro haciendo colaboraciones en Oracle APEX.
+- 🌱 Finalicé el curso de full stack developer en Digital House.
+- 👯 Quiero empezar a implementar los conocimientos adquiridos, asi como tambien sumar nuevos y poder colaborar en diferentes proyectos.
+- 📫 Contacto: gonzaggb@gmail.com // +54 9 11 3123 4456
+- 😄 Nickname: gonzaggb
+- 🌎 Lenguajes: Español e ingles (nivel intermedio)
